@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 🌱 I'm currently working on **SpicyTools**
+- 🌱 I'm currently working with **SpicyTools**
+
+- 🌱 i'm open for any jobs or helping out!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
